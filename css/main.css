@@ -290,10 +290,10 @@ aside {
 }
  */
 
-aside p {
-  /* margin-bottom: 30px; */
-} /* CHECK */
-
+/* aside p {
+    margin-bottom: 30px; 
+} 
+ */
 aside .form {
   margin-top: 30px;
 }
